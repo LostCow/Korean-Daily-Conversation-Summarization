@@ -1,6 +1,7 @@
 # Korean Daily Conversation Summarization
 
-[인공지능(AI)말평 일상대화요약(가 유형)](https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=146&clCd=END_TASK&subMenuId=sub01) 제출 코드
+- [인공지능(AI)말평 일상대화요약(가 유형)](https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=146&clCd=END_TASK&subMenuId=sub01) 제출 코드
+- [모델 링크](https://huggingface.co/LostCow/ko_gemma_2_9b_dialogue_summary)
 
 ## 실행 방법
 
