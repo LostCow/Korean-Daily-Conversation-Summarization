@@ -1,0 +1,12 @@
+transformers
+evaluate
+python-dotenv
+torch
+trl
+peft
+ipykernel
+fire
+datasets
+deepspeed
+bitsandbytes
+accelerate
